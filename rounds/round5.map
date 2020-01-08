@@ -1,0 +1,13 @@
+<rount>
+ <objects>
+   
+<LittleMonster x='200' y='300' dx='2' dy='0'/> 
+<LittleMonster x='300' y='300' dx='2' dy='0'/> 
+<LittleMonster x='500' y='300' dx='2' dy='0'/> 
+<LittleMonster x='600' y='300' dx='2' dy='0'/> 
+<Boss x='400' y='100' dx='2' dy='0'/> 
+
+
+
+</objects>
+</rount>

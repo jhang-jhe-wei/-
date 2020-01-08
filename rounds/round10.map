@@ -1,0 +1,17 @@
+<rount>
+ <objects>
+   
+<LittleMonster x='100' y='100' dx='2' dy='2'/> 
+<LittleMonster x='200' y='100' dx='2' dy='2'/> 
+<MiddleMonster x='170' y='170' dx='2' dy='2'/> 
+<MiddleMonster x='300' y='170' dx='2' dy='2'/> 
+<Boss x='400' y='100' dx='2' dy='2'/> 
+<MiddleMonster x='500' y='200' dx='2' dy='2'/> 
+<MiddleMonster x='800' y='200' dx='2' dy='2'/> 
+<LittleMonster x='600' y='100' dx='2' dy='2'/> 
+<LittleMonster x='700' y='100' dx='2' dy='2'/> 
+<LittleMonster x='800' y='100' dx='2' dy='2'/> 
+
+
+</objects>
+</rount>

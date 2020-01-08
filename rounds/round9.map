@@ -1,0 +1,28 @@
+<rount>
+ <objects>
+   
+
+<MiddleMonster x='400' y='170' dx='1' dy='4'/> 
+<MiddleMonster x='500' y='200' dx='4' dy='2'/> 
+
+<MiddleMonster x='800' y='230' dx='2' dy='0'/> 
+
+<LittleMonster x='100' y='100' dx='2' dy='0'/> 
+<LittleMonster x='200' y='100' dx='2' dy='0'/> 
+<LittleMonster x='300' y='100' dx='2' dy='0'/> 
+<LittleMonster x='400' y='100' dx='2' dy='0'/> 
+<LittleMonster x='500' y='100' dx='2' dy='0'/> 
+<LittleMonster x='600' y='100' dx='2' dy='0'/> 
+<LittleMonster x='700' y='100' dx='2' dy='3'/> 
+<LittleMonster x='800' y='100' dx='2' dy='2'/> 
+<LittleMonster x='100' y='200' dx='2' dy='1'/> 
+<LittleMonster x='200' y='200' dx='2' dy='0'/> 
+<LittleMonster x='300' y='200' dx='2' dy='5'/> 
+<LittleMonster x='400' y='200' dx='2' dy='2'/> 
+<LittleMonster x='500' y='200' dx='2' dy='0'/> 
+<LittleMonster x='600' y='200' dx='2' dy='0'/> 
+<LittleMonster x='700' y='200' dx='2' dy='0'/> 
+<LittleMonster x='800' y='200' dx='2' dy='0'/> 
+
+</objects>
+</rount>
