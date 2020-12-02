@@ -1,6 +1,6 @@
 # Star War
 ## Introduction  
-  This is a Star Wars game.  
+  This is a Star Wars game made with java
 ## Video
   [![Star War](https://i.imgur.com/6GrmkrH.png)](https://youtu.be/bRKvdPA267w)
 ## Requirements
