@@ -5,7 +5,7 @@
   [![Star War](https://i.imgur.com/6GrmkrH.png)](https://youtu.be/bRKvdPA267w)
 ## Requirements
   Java SE ~>1.8.1
-## Tutorials
+## How to play it?
   Keyborad  | Function
   :--------:|:--------:
   Upwards   |   UP
